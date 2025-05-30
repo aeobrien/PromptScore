@@ -1,0 +1,40 @@
+{
+  "source": "/Users/aidan/Documents/XCode/PromptScore/PromptScore/Views/ScriptEditorView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "No script loaded. Import a script to begin.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 26
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lldpt",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 48
+        }
+      },
+      {
+        "comment": "",
+        "key": "Audio attached - Click to re-record",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 87
+        }
+      },
+      {
+        "comment": "",
+        "key": "Record audio reference",
+        "location": {
+          "startingColumn": 87,
+          "startingLine": 87
+        }
+      }
+    ]
+  },
+  "version": 1
+}

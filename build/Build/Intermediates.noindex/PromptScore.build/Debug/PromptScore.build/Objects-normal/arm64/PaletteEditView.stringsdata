@@ -1,0 +1,176 @@
+{
+  "source": "/Users/aidan/Documents/XCode/PromptScore/PromptScore/Views/PaletteEditView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Edit Palette",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 25
+        }
+      },
+      {
+        "comment": "",
+        "key": "Annotations",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 32
+        }
+      },
+      {
+        "comment": "",
+        "key": "Colors",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 37
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 48
+        }
+      },
+      {
+        "comment": "",
+        "key": "Symbol",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 65
+        }
+      },
+      {
+        "comment": "",
+        "key": "Description",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 76
+        }
+      },
+      {
+        "comment": "",
+        "key": "Key",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 86
+        }
+      },
+      {
+        "comment": "",
+        "key": "Symbol",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 113
+        }
+      },
+      {
+        "comment": "",
+        "key": "Description",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 117
+        }
+      },
+      {
+        "comment": "",
+        "key": "Key",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 120
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 124
+        }
+      },
+      {
+        "comment": "",
+        "key": "Name",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 152
+        }
+      },
+      {
+        "comment": "",
+        "key": "Color name",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 183
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 186
+        }
+      },
+      {
+        "comment": "",
+        "key": "R:",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 204
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 207
+        }
+      },
+      {
+        "comment": "",
+        "key": "G:",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 210
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 213
+        }
+      },
+      {
+        "comment": "",
+        "key": "B:",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 216
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 219
+        }
+      }
+    ]
+  },
+  "version": 1
+}

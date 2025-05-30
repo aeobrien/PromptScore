@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>11</integer>
+	<key>logs</key>
+	<dict>
+		<key>A586ADDB-B6E6-4148-880C-48F5EF5A8D74</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A586ADDB-B6E6-4148-880C-48F5EF5A8D74.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PromptScore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PromptScore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Cleaning project PromptScore with scheme PromptScore</string>
+			<key>timeStartedRecording</key>
+			<real>770288442.93703306</real>
+			<key>timeStoppedRecording</key>
+			<real>770288443.22585297</real>
+			<key>title</key>
+			<string>Cleaning project PromptScore with scheme PromptScore</string>
+			<key>uniqueIdentifier</key>
+			<string>A586ADDB-B6E6-4148-880C-48F5EF5A8D74</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

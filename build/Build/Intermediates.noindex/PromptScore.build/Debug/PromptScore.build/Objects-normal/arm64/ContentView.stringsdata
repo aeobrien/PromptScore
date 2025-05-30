@@ -1,0 +1,72 @@
+{
+  "source": "/Users/aidan/Documents/XCode/PromptScore/PromptScore/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "View Mode",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 45
+        }
+      },
+      {
+        "comment": "",
+        "key": "Import Script",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 41
+        }
+      },
+      {
+        "comment": "",
+        "key": "Full Paragraph",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 46
+        }
+      },
+      {
+        "comment": "",
+        "key": "Single Sentence",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 47
+        }
+      },
+      {
+        "comment": "",
+        "key": "Toggle Palette",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 56
+        }
+      },
+      {
+        "comment": "",
+        "key": "No Script Loaded",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 68
+        }
+      },
+      {
+        "comment": "",
+        "key": "Import a script to begin annotating",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 72
+        }
+      },
+      {
+        "comment": "",
+        "key": "Import Script",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 75
+        }
+      }
+    ]
+  },
+  "version": 1
+}

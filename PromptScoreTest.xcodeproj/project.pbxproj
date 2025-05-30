@@ -186,7 +186,7 @@
 					};
 				};
 			};
-			buildConfigurationList = DDFC65E82DE9A29D00ECC132 /* Build configuration list for PBXProject "PromptScoreTest1" */;
+			buildConfigurationList = DDFC65E82DE9A29D00ECC132 /* Build configuration list for PBXProject "PromptScoreTest" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -514,7 +514,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		DDFC65E82DE9A29D00ECC132 /* Build configuration list for PBXProject "PromptScoreTest1" */ = {
+		DDFC65E82DE9A29D00ECC132 /* Build configuration list for PBXProject "PromptScoreTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DDFC660D2DE9A29F00ECC132 /* Debug */,

@@ -1,0 +1,18 @@
+"/Users/aidan/Documents/XCode/PromptScore/PromptScore/Models/Word.swift":
+  diagnostics: "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Word.dia"
+  const-values: "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Word.swiftconstvalues"
+  object: "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Word.o"
+  swift-dependencies: "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Word.swiftdeps"
+  dependencies: "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Word.d"
+"/Users/aidan/Documents/XCode/PromptScore/PromptScore/Views/WordView.swift":
+  swift-dependencies: "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/WordView.swiftdeps"
+  const-values: "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/WordView.swiftconstvalues"
+  object: "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/WordView.o"
+  dependencies: "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/WordView.d"
+  diagnostics: "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/WordView.dia"
+"/Users/aidan/Documents/XCode/PromptScore/PromptScore/Models/CustomAnnotation.swift":
+  swift-dependencies: "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/CustomAnnotation.swiftdeps"
+  dependencies: "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/CustomAnnotation.d"
+  object: "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/CustomAnnotation.o"
+  const-values: "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/CustomAnnotation.swiftconstvalues"
+  diagnostics: "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/CustomAnnotation.dia"

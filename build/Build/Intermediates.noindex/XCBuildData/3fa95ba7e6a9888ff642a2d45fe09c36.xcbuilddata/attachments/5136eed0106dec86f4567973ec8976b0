@@ -1,0 +1,208 @@
+{
+  "" : {
+    "diagnostics" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/PromptScore-master.dia",
+    "emit-module-dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/PromptScore-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/PromptScore-master-emit-module.dia",
+    "swift-dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/PromptScore-master.swiftdeps"
+  },
+  "/Users/aidan/Documents/XCode/PromptScore/PromptScore/ContentView.swift" : {
+    "const-values" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/aidan/Documents/XCode/PromptScore/PromptScore/Models/Annotation.swift" : {
+    "const-values" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Annotation.swiftconstvalues",
+    "dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Annotation.d",
+    "diagnostics" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Annotation.dia",
+    "index-unit-output-path" : "/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Annotation.o",
+    "llvm-bc" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Annotation.bc",
+    "object" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Annotation.o",
+    "swift-dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Annotation.swiftdeps",
+    "swiftmodule" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Annotation~partial.swiftmodule"
+  },
+  "/Users/aidan/Documents/XCode/PromptScore/PromptScore/Models/CustomAnnotation.swift" : {
+    "const-values" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/CustomAnnotation.swiftconstvalues",
+    "dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/CustomAnnotation.d",
+    "diagnostics" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/CustomAnnotation.dia",
+    "index-unit-output-path" : "/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/CustomAnnotation.o",
+    "llvm-bc" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/CustomAnnotation.bc",
+    "object" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/CustomAnnotation.o",
+    "swift-dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/CustomAnnotation.swiftdeps",
+    "swiftmodule" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/CustomAnnotation~partial.swiftmodule"
+  },
+  "/Users/aidan/Documents/XCode/PromptScore/PromptScore/Models/HighlightColor.swift" : {
+    "const-values" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/HighlightColor.swiftconstvalues",
+    "dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/HighlightColor.d",
+    "diagnostics" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/HighlightColor.dia",
+    "index-unit-output-path" : "/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/HighlightColor.o",
+    "llvm-bc" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/HighlightColor.bc",
+    "object" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/HighlightColor.o",
+    "swift-dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/HighlightColor.swiftdeps",
+    "swiftmodule" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/HighlightColor~partial.swiftmodule"
+  },
+  "/Users/aidan/Documents/XCode/PromptScore/PromptScore/Models/Paragraph.swift" : {
+    "const-values" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Paragraph.swiftconstvalues",
+    "dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Paragraph.d",
+    "diagnostics" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Paragraph.dia",
+    "index-unit-output-path" : "/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Paragraph.o",
+    "llvm-bc" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Paragraph.bc",
+    "object" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Paragraph.o",
+    "swift-dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Paragraph.swiftdeps",
+    "swiftmodule" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Paragraph~partial.swiftmodule"
+  },
+  "/Users/aidan/Documents/XCode/PromptScore/PromptScore/Models/Script.swift" : {
+    "const-values" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Script.swiftconstvalues",
+    "dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Script.d",
+    "diagnostics" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Script.dia",
+    "index-unit-output-path" : "/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Script.o",
+    "llvm-bc" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Script.bc",
+    "object" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Script.o",
+    "swift-dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Script.swiftdeps",
+    "swiftmodule" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Script~partial.swiftmodule"
+  },
+  "/Users/aidan/Documents/XCode/PromptScore/PromptScore/Models/Sentence.swift" : {
+    "const-values" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Sentence.swiftconstvalues",
+    "dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Sentence.d",
+    "diagnostics" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Sentence.dia",
+    "index-unit-output-path" : "/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Sentence.o",
+    "llvm-bc" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Sentence.bc",
+    "object" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Sentence.o",
+    "swift-dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Sentence.swiftdeps",
+    "swiftmodule" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Sentence~partial.swiftmodule"
+  },
+  "/Users/aidan/Documents/XCode/PromptScore/PromptScore/Models/Word.swift" : {
+    "const-values" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Word.swiftconstvalues",
+    "dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Word.d",
+    "diagnostics" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Word.dia",
+    "index-unit-output-path" : "/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Word.o",
+    "llvm-bc" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Word.bc",
+    "object" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Word.o",
+    "swift-dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Word.swiftdeps",
+    "swiftmodule" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Word~partial.swiftmodule"
+  },
+  "/Users/aidan/Documents/XCode/PromptScore/PromptScore/PromptScoreApp.swift" : {
+    "const-values" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/PromptScoreApp.swiftconstvalues",
+    "dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/PromptScoreApp.d",
+    "diagnostics" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/PromptScoreApp.dia",
+    "index-unit-output-path" : "/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/PromptScoreApp.o",
+    "llvm-bc" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/PromptScoreApp.bc",
+    "object" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/PromptScoreApp.o",
+    "swift-dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/PromptScoreApp.swiftdeps",
+    "swiftmodule" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/PromptScoreApp~partial.swiftmodule"
+  },
+  "/Users/aidan/Documents/XCode/PromptScore/PromptScore/Utilities/AudioManager.swift" : {
+    "const-values" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/AudioManager.swiftconstvalues",
+    "dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/AudioManager.d",
+    "diagnostics" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/AudioManager.dia",
+    "index-unit-output-path" : "/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/AudioManager.o",
+    "llvm-bc" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/AudioManager.bc",
+    "object" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/AudioManager.o",
+    "swift-dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/AudioManager.swiftdeps",
+    "swiftmodule" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/AudioManager~partial.swiftmodule"
+  },
+  "/Users/aidan/Documents/XCode/PromptScore/PromptScore/Utilities/TextTokenizer.swift" : {
+    "const-values" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/TextTokenizer.swiftconstvalues",
+    "dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/TextTokenizer.d",
+    "diagnostics" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/TextTokenizer.dia",
+    "index-unit-output-path" : "/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/TextTokenizer.o",
+    "llvm-bc" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/TextTokenizer.bc",
+    "object" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/TextTokenizer.o",
+    "swift-dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/TextTokenizer.swiftdeps",
+    "swiftmodule" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/TextTokenizer~partial.swiftmodule"
+  },
+  "/Users/aidan/Documents/XCode/PromptScore/PromptScore/ViewModels/PaletteManager.swift" : {
+    "const-values" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/PaletteManager.swiftconstvalues",
+    "dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/PaletteManager.d",
+    "diagnostics" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/PaletteManager.dia",
+    "index-unit-output-path" : "/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/PaletteManager.o",
+    "llvm-bc" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/PaletteManager.bc",
+    "object" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/PaletteManager.o",
+    "swift-dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/PaletteManager.swiftdeps",
+    "swiftmodule" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/PaletteManager~partial.swiftmodule"
+  },
+  "/Users/aidan/Documents/XCode/PromptScore/PromptScore/ViewModels/ScriptViewModel.swift" : {
+    "const-values" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/ScriptViewModel.swiftconstvalues",
+    "dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/ScriptViewModel.d",
+    "diagnostics" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/ScriptViewModel.dia",
+    "index-unit-output-path" : "/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/ScriptViewModel.o",
+    "llvm-bc" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/ScriptViewModel.bc",
+    "object" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/ScriptViewModel.o",
+    "swift-dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/ScriptViewModel.swiftdeps",
+    "swiftmodule" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/ScriptViewModel~partial.swiftmodule"
+  },
+  "/Users/aidan/Documents/XCode/PromptScore/PromptScore/Views/AnnotationPaletteView.swift" : {
+    "const-values" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/AnnotationPaletteView.swiftconstvalues",
+    "dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/AnnotationPaletteView.d",
+    "diagnostics" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/AnnotationPaletteView.dia",
+    "index-unit-output-path" : "/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/AnnotationPaletteView.o",
+    "llvm-bc" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/AnnotationPaletteView.bc",
+    "object" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/AnnotationPaletteView.o",
+    "swift-dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/AnnotationPaletteView.swiftdeps",
+    "swiftmodule" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/AnnotationPaletteView~partial.swiftmodule"
+  },
+  "/Users/aidan/Documents/XCode/PromptScore/PromptScore/Views/AudioRecordingView.swift" : {
+    "const-values" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/AudioRecordingView.swiftconstvalues",
+    "dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/AudioRecordingView.d",
+    "diagnostics" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/AudioRecordingView.dia",
+    "index-unit-output-path" : "/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/AudioRecordingView.o",
+    "llvm-bc" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/AudioRecordingView.bc",
+    "object" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/AudioRecordingView.o",
+    "swift-dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/AudioRecordingView.swiftdeps",
+    "swiftmodule" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/AudioRecordingView~partial.swiftmodule"
+  },
+  "/Users/aidan/Documents/XCode/PromptScore/PromptScore/Views/PaletteEditView.swift" : {
+    "const-values" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/PaletteEditView.swiftconstvalues",
+    "dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/PaletteEditView.d",
+    "diagnostics" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/PaletteEditView.dia",
+    "index-unit-output-path" : "/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/PaletteEditView.o",
+    "llvm-bc" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/PaletteEditView.bc",
+    "object" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/PaletteEditView.o",
+    "swift-dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/PaletteEditView.swiftdeps",
+    "swiftmodule" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/PaletteEditView~partial.swiftmodule"
+  },
+  "/Users/aidan/Documents/XCode/PromptScore/PromptScore/Views/ScriptEditorView.swift" : {
+    "const-values" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/ScriptEditorView.swiftconstvalues",
+    "dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/ScriptEditorView.d",
+    "diagnostics" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/ScriptEditorView.dia",
+    "index-unit-output-path" : "/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/ScriptEditorView.o",
+    "llvm-bc" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/ScriptEditorView.bc",
+    "object" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/ScriptEditorView.o",
+    "swift-dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/ScriptEditorView.swiftdeps",
+    "swiftmodule" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/ScriptEditorView~partial.swiftmodule"
+  },
+  "/Users/aidan/Documents/XCode/PromptScore/PromptScore/Views/ScriptInputView.swift" : {
+    "const-values" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/ScriptInputView.swiftconstvalues",
+    "dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/ScriptInputView.d",
+    "diagnostics" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/ScriptInputView.dia",
+    "index-unit-output-path" : "/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/ScriptInputView.o",
+    "llvm-bc" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/ScriptInputView.bc",
+    "object" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/ScriptInputView.o",
+    "swift-dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/ScriptInputView.swiftdeps",
+    "swiftmodule" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/ScriptInputView~partial.swiftmodule"
+  },
+  "/Users/aidan/Documents/XCode/PromptScore/PromptScore/Views/WordView.swift" : {
+    "const-values" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/WordView.swiftconstvalues",
+    "dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/WordView.d",
+    "diagnostics" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/WordView.dia",
+    "index-unit-output-path" : "/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/WordView.o",
+    "llvm-bc" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/WordView.bc",
+    "object" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/WordView.o",
+    "swift-dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/WordView.swiftdeps",
+    "swiftmodule" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/WordView~partial.swiftmodule"
+  },
+  "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

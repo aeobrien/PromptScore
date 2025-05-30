@@ -1,0 +1,18 @@
+"/Users/aidan/Documents/XCode/PromptScore/PromptScore/Models/Annotation.swift":
+  const-values: "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Annotation.swiftconstvalues"
+  diagnostics: "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Annotation.dia"
+  dependencies: "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Annotation.d"
+  swift-dependencies: "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Annotation.swiftdeps"
+  object: "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/Annotation.o"
+"/Users/aidan/Documents/XCode/PromptScore/PromptScore/PromptScoreApp.swift":
+  diagnostics: "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/PromptScoreApp.dia"
+  const-values: "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/PromptScoreApp.swiftconstvalues"
+  swift-dependencies: "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/PromptScoreApp.swiftdeps"
+  dependencies: "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/PromptScoreApp.d"
+  object: "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/PromptScoreApp.o"
+"/Users/aidan/Documents/XCode/PromptScore/PromptScore/Views/ScriptEditorView.swift":
+  diagnostics: "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/ScriptEditorView.dia"
+  object: "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/ScriptEditorView.o"
+  dependencies: "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/ScriptEditorView.d"
+  swift-dependencies: "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/ScriptEditorView.swiftdeps"
+  const-values: "/Users/aidan/Documents/XCode/PromptScore/build/Build/Intermediates.noindex/PromptScore.build/Debug/PromptScore.build/Objects-normal/arm64/ScriptEditorView.swiftconstvalues"

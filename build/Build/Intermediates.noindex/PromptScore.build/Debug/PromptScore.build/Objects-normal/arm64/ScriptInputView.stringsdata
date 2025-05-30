@@ -1,0 +1,40 @@
+{
+  "source": "/Users/aidan/Documents/XCode/PromptScore/PromptScore/Views/ScriptInputView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Import Script",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 17
+        }
+      },
+      {
+        "comment": "",
+        "key": "Paste your script text below",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 21
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 36
+        }
+      },
+      {
+        "comment": "",
+        "key": "Import",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 43
+        }
+      }
+    ]
+  },
+  "version": 1
+}
